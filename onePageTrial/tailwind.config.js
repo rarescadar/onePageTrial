@@ -9,7 +9,19 @@ export default {
     "./error.vue",
   ],
   theme: {
-    extend: {},
+    colors: {
+      transparent: 'transparent',
+      current: 'currentColor',
+      'midnight': '#151515',
+      'whiteFont': "#858585",
+      'menuFont': "#ffffff",
+      'grayFont': '#b9b9b9'
+    },
+    extend: {
+      backgroundImage: {
+        'boat-background': "url('/assets/images/sail-design.png')",
+      }
+    },
   },
   plugins: [],
 }
