@@ -15,7 +15,8 @@ export default {
       'midnight': '#151515',
       'whiteFont': "#858585",
       'menuFont': "#ffffff",
-      'grayFont': '#b9b9b9'
+      'grayFont': '#b9b9b9',
+      'goldFont': '#ddb59c',
     },
     extend: {
       backgroundImage: {
