@@ -17,6 +17,7 @@ export default {
       'menuFont': "#ffffff",
       'grayFont': '#b9b9b9',
       'goldFont': '#ddb59c',
+      'grayBg': '#2f2f2f',
     },
     extend: {
       backgroundImage: {
