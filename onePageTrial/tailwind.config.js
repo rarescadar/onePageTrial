@@ -18,6 +18,7 @@ export default {
       'grayFont': '#b9b9b9',
       'goldFont': '#ddb59c',
       'grayBg': '#2f2f2f',
+      'blue-button': '#0075eb',
     },
     extend: {
       backgroundImage: {
