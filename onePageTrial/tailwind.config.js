@@ -23,6 +23,10 @@ export default {
     extend: {
       backgroundImage: {
         'boat-background': "url('/assets/images/sail-design.png')",
+      },
+      height: {
+        '128': '32rem',
+        '156': '400px',
       }
     },
   },
