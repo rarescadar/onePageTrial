@@ -24,6 +24,7 @@ export default {
     extend: {
       backgroundImage: {
         'boat-background': "url('/assets/images/sail-design.png')",
+        'footer-background': "url('/assets/images/excellence-ui-design-illustration.png')"
       },
       height: {
         '128': '32rem',
