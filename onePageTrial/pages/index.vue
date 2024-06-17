@@ -2,7 +2,6 @@
 
     <head>
         <title>Award winning UX Design Agency | Excelence in product design</title>
-
     </head>
 
     <body class="m-0 h-screen scroll-smooth">
@@ -50,18 +49,20 @@
 
         <section class="bg-midnight text-whiteFont opacity-.7 font-normal text-xs tracking-widest">
             <section class="bg-midnight text-whiteFont opacity-.7 font-normal text-xs tracking-widest relative">
-                <div class="flex flex-col ">
-                    <div class="flex flex-row justify-between relative">
-                        <div class="flex flex-nowrap flex-col">
-                            <h4 class="text-lg p-4 w-3/4 text-goldFont lg:text-lg lg:p-12 lg:mt-32 lg:ml-72">Ranked top
+                <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col ">
+                    <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-row justify-between relative">
+                        <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-nowrap flex-col">
+                            <h4 data-aos="fade-left" data-aos-duration="1000"
+                                class="text-lg p-4 w-3/4 text-goldFont lg:text-lg lg:p-12 lg:mt-32 lg:ml-72">Ranked top
                                 10
                                 global
                                 UX
                                 design
                                 agencies 2017 to
                                 2023</h4>
-                            <h1 class="text-4xl w-full p-4 text-menuFont lg:text-6xl lg:w-2/4 lg:p-8  lg:ml-72">
-                                The user experience
+                            <h1 data-aos="fade-left" data-aos-duration="1000"
+                                class="text-4xl w-full p-4 text-menuFont lg:text-6xl lg:w-2/4 lg:p-8  lg:ml-72">
+                                The user experiences
                                 design
                                 agency
                                 that adds
@@ -69,19 +70,22 @@
                                 products</h1>
                         </div>
                     </div>
-                    <video class="p-4 lg:w-3/4 self-center lg:mt-10 lg:mb-20"
+                    <video data-aos="fade-left" data-aos-duration="1000"
+                        class="p-4 lg:w-3/4 self-center lg:mt-10 lg:mb-20"
                         src="https://interface-design.co.uk/video/home-video.mp4" autoplay muted></video>
                 </div>
             </section>
 
 
-            <div class="flex flex-col p-2 content-start">
-                <h1 class="text-5xl p-2 mb-5 ml-1 text-menuFont lg:ml-60 lg:p-14">
+            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-2 content-start">
+                <h1 data-aos="fade-left" data-aos-duration="1000"
+                    class="text-5xl p-2 mb-5 ml-1 text-menuFont lg:ml-60 lg:p-14">
                     We are <span class="text-goldFont">designers</span> & <span class="text-goldFont">cognitive </span>
                     <span class="text-goldFont">scientists</span>.
                 </h1>
 
-                <h3 class="text-xl p-2 text-menuFont mb-8 ml-1 lg:ml-60 lg:p-14 lg:text-5xl lg:w-7/12 ">This blend is a
+                <h3 data-aos="fade-left" data-aos-duration="1000"
+                    class="text-xl p-2 text-menuFont mb-8 ml-1 lg:ml-60 lg:p-14 lg:text-5xl lg:w-7/12 ">This blend is a
                     natural
                     continuation
                     of a design
@@ -91,28 +95,24 @@
                     potential. With a
                     structured understanding of the mind, we map purposeful product strategies and create aesthetic
                     experiences.</h3>
-                <div class="flex flex-row border-2 border-goldFont w-1/2 h-10 p-2 mb-8  ml-2 lg:w-56 lg:h-16 lg:ml-72">
-                    <a class=" ml-3 self-center text-goldFont w-3/5">Get to know us.</a>
-                    <img class="w-1/4 self-center" src="https://interface-design.co.uk/images/right-arrow-gold.svg"
-                        alt="">
+                <div data-aos="fade-left" data-aos-duration="1000"
+                    class="flex flex-row border-2 border-goldFont w-1/2 h-10 p-2 mb-8  ml-2 lg:w-56 lg:h-16 lg:ml-72">
+                    <a data-aos="fade-left" data-aos-duration="1000" class=" ml-3 self-center text-goldFont w-3/5">Get
+                        to know us.</a>
+                    <img data-aos="fade-left" data-aos-duration="1000" class="w-1/4 self-center"
+                        src="https://interface-design.co.uk/images/right-arrow-gold.svg" alt="">
                 </div>
             </div>
 
         </section>
-        <section class=" p-6 bg-grayBg">
-            <div class="">
-                <h1 class="text-menuFont text-2xl p-4  mb-4">We work in dedicated project teams, blending DesignOps,
-                    user
-                    research, UX design, UI and engineering.</h1>
-                <!-- Aici trebuia sa fie slideshowul carousel, nu am reusit sa il implementez. -->
-            </div>
-
-        </section>
         <section>
-            <div class="flex flex-col bg-midnight lg:hidden">
-                <h2 class="text-menuFont text-3xl text-menuFont p-4 mt-5">The Border Police goes digital</h2>
-                <img class="lg:w-2/5 lg:h-2/5 " src="/assets/images/socar-inner-layers.png" alt="">
-                <p class="text-menuFont p-6 text-xl"> The OECD hired our UX agency to design an intelligence system. The
+            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col bg-midnight lg:hidden">
+                <h2 data-aos="fade-left" data-aos-duration="1000" class="text-menuFont text-3xl text-menuFont p-4 mt-5">
+                    The Border Police goes digital</h2>
+                <img data-aos="fade-left" data-aos-duration="1000" class="lg:w-2/5 lg:h-2/5 "
+                    src="/assets/images/socar-inner-layers.png" alt="">
+                <p data-aos="fade-left" data-aos-duration="1000" class="text-menuFont p-6 text-xl"> The OECD hired our
+                    UX agency to design an intelligence system. The
                     user
                     experience is universal.
                     Border police agencies in 107 countries rely on the user interface to cope with the chaos of field
@@ -120,22 +120,25 @@
                 </p>
                 <div
                     class="flex flex-row border-2 border-goldFont w-3/5 h-10 p-2 mb-8 mt-8 ml-4 h-14 mt-6 lg:w-56 lg:h-16 lg:ml-72">
-                    <a class=" ml-3 self-center text-goldFont w-full"
+                    <a data-aos="fade-left" data-aos-duration="1000" class=" ml-3 self-center text-goldFont w-full"
                         href="https://interface-design.co.uk/case-studies/ux-design-case-study">VIEW CASE STUDY</a>
-                    <img class="w-1/4 self-center" src="https://interface-design.co.uk/images/right-arrow-gold.svg"
-                        alt="">
+                    <img data-aos="fade-left" data-aos-duration="1000" class="w-1/4 self-center"
+                        src="https://interface-design.co.uk/images/right-arrow-gold.svg" alt="">
                 </div>
             </div>
 
-            <div class="flex flex-row bg-midnight hidden lg:block">
-                <div class="flex flex-row">
-                    <div class="flex-col w-2/5">
-                        <h2 class="text-menuFont text-3xl text-menuFont p-4 mt-5 lg:p-16 lg:text-5xl lg:w-4/5 lg:ml-24">
+            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-row bg-midnight hidden lg:block">
+                <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-row">
+                    <div data-aos="fade-left" data-aos-duration="1000" class="flex-col w-2/5">
+                        <h2 data-aos="fade-left" data-aos-duration="1000"
+                            class="text-menuFont text-3xl text-menuFont p-4 mt-5 lg:p-16 lg:text-5xl lg:w-4/5 lg:ml-24">
                             The
                             Border Police
                             goes digital
                         </h2>
-                        <p class="text-menuFont p-6 text-xl lg:w-4/5 lg:text-xl lg:p-16 lg:ml-24"> The OECD hired our UX
+                        <p data-aos="fade-left" data-aos-duration="1000"
+                            class="text-menuFont p-6 text-xl lg:w-4/5 lg:text-xl lg:p-16 lg:ml-24"> The OECD hired our
+                            UX
                             agency to design
                             an
                             intelligence
@@ -147,71 +150,83 @@
                             field
                             operations.
                         </p>
-                        <div
+                        <div data-aos="fade-left" data-aos-duration="1000"
                             class="flex flex-row border-2 border-goldFont w-3/5 h-10 p-2 mb-8 mt-8 ml-4 h-14 mt-6 lg:w-56 lg:h-16 lg:ml-40">
-                            <a class=" ml-3 self-center text-goldFont w-full"
+                            <a data-aos="fade-left" data-aos-duration="1000"
+                                class=" ml-3 self-center text-goldFont w-full"
                                 href="https://interface-design.co.uk/case-studies/ux-design-case-study">VIEW CASE
                                 STUDY</a>
-                            <img class="w-1/4 self-center"
+                            <img data-aos="fade-left" data-aos-duration="1000" class="w-1/4 self-center"
                                 src="https://interface-design.co.uk/images/right-arrow-gold.svg" alt="">
                         </div>
                     </div>
-                    <img class="lg:w-2/5 lg:h-2/5 " src="/assets/images/socar-inner-layers.png" alt="">
+                    <img data-aos="fade-left" data-aos-duration="1000" class="lg:w-2/5 lg:h-2/5 "
+                        src="/assets/images/socar-inner-layers.png" alt="">
                 </div>
 
             </div>
+
 
         </section>
 
         <section>
             <!-- MOBILE VIEW -->
-            <div class="flex flex-col bg-menuFont lg:hidden">
-                <h1 class="p-6 text-3xl">The AI that keeps banking safe</h1>
-                <img class="p-4" src="/assets/images/ux-ui-design-workflow-app.avif" alt="">
-                <p class="p-4 ml-4 text-xl">The UX/UI design empowers fraud officers to respond to cybersecurity
+            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col bg-menuFont lg:hidden">
+                <h1 data-aos="fade-left" data-aos-duration="1000" class="p-6 text-3xl">The AI that keeps banking safe
+                </h1>
+                <img data-aos="fade-left" data-aos-duration="1000" class="p-4"
+                    src="/assets/images/ux-ui-design-workflow-app.avif" alt="">
+                <p data-aos="fade-left" data-aos-duration="1000" class="p-4 ml-4 text-xl">The UX/UI design empowers
+                    fraud officers to respond to cybersecurity
                     threats. The UX
                     design prevents
                     errors and copes with complex scenarios affecting millions of transactions per second.</p>
-                <div
+                <div data-aos="fade-left" data-aos-duration="1000"
                     class="flex flex-row border-2 border-blue-button w-3/5 h-10 p-2 mb-8 mt-8 ml-4 h-14 mt-6 lg:w-56 lg:h-16 lg:ml-40">
-                    <a class=" ml-3 self-center text-blue-button w-full"
+                    <a data-aos="fade-left" data-aos-duration="1000" class=" ml-3 self-center text-blue-button w-full"
                         href="https://interface-design.co.uk/case-studies/ux-design-case-study">VIEW CASE
                         STUDY</a>
-                    <img class="w-1/4 self-center" src="https://interface-design.co.uk/images/right-arrow-blue.svg"
-                        alt="">
+                    <img data-aos="fade-left" data-aos-duration="1000" class="w-1/4 self-center"
+                        src="https://interface-design.co.uk/images/right-arrow-blue.svg" alt="">
                 </div>
-                <div class="self-center bg-midnight w-11/12 mt-12 mb-12">
-                    <img class="w-64 h-64 self-center" src="/assets/images/girl-with-sunglasses-stars.png" alt="">
-                    <a href=""
+                <div data-aos="fade-left" data-aos-duration="1000" class="self-center bg-midnight w-11/12 mt-12 mb-12">
+                    <img data-aos="fade-left" data-aos-duration="1000" class="w-64 h-64 self-center"
+                        src="/assets/images/girl-with-sunglasses-stars.png" alt="">
+                    <a data-aos="fade-left" data-aos-duration="1000" href=""
                         class="border-2 border-normal p-4 text-goldFont border-goldFont relative bottom-32 left-10">CONTACT
                         US</a>
                 </div>
-                <h1 class="p-6 text-4xl">Pushing the boundary on mobile</h1>
-                <img class="p-6" src="/assets/images/visual-design-mobile-app.avif" alt="">
-                <p class="p-6 text-xl">OLX is the leader in the automotive vertical with 20 million users per month.
+                <h1 data-aos="fade-left" data-aos-duration="1000" class="p-6 text-4xl">Pushing the boundary on mobile
+                </h1>
+                <img data-aos="fade-left" data-aos-duration="1000" class="p-6"
+                    src="/assets/images/visual-design-mobile-app.avif" alt="">
+                <p data-aos="fade-left" data-aos-duration="1000" class="p-6 text-xl">OLX is the leader in the automotive
+                    vertical with 20 million users per month.
                     They trusted our UX/UI
                     agency to shape their design strategy and to lay the foundation for the future.</p>
-                <div
+                <div data-aos="fade-left" data-aos-duration="1000"
                     class="flex flex-row border-2 border-blue-button w-3/5 h-10 p-2 mb-8 mt-8 ml-6 h-14 mt-6 lg:w-56 lg:h-16 lg:ml-40">
-                    <a class=" ml-3 self-center text-blue-button w-full"
+                    <a data-aos="fade-left" data-aos-duration="1000" class=" ml-3 self-center text-blue-button w-full"
                         href="https://interface-design.co.uk/case-studies/ux-design-case-study">VIEW CASE
                         STUDY</a>
-                    <img class="w-1/4 self-center" src="https://interface-design.co.uk/images/right-arrow-blue.svg"
-                        alt="">
+                    <img data-aos="fade-left" data-aos-duration="1000" class="w-1/4 self-center"
+                        src="https://interface-design.co.uk/images/right-arrow-blue.svg" alt="">
                 </div>
             </div>
 
             <!-- DESKTOP VIEW -->
-            <div class="flex flex-col hidden lg:block">
-                <div class="flex flex-row">
-                    <div class="flex flex-col">
-                        <h1 class="p-32 text-5xl w-4/5">The AI that keeps banking safe</h1>
-                        <p class="p-4 ml-28 text-2xl w-3/5">The UX/UI design empowers fraud officers to respond to
+            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col hidden lg:block">
+                <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-row">
+                    <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col">
+                        <h1 data-aos="fade-left" data-aos-duration="1000" class="p-32 text-5xl w-4/5">The AI that keeps
+                            banking safe</h1>
+                        <p data-aos="fade-left" data-aos-duration="1000" class="p-4 ml-28 text-2xl w-3/5">The UX/UI
+                            design empowers fraud officers to respond to
                             cybersecurity
                             threats. The UX
                             design prevents
                             errors and copes with complex scenarios affecting millions of transactions per second.</p>
-                        <div
+                        <div data-aos="fade-left" data-aos-duration="1000"
                             class="flex flex-row border-2 border-blue-button w-3/5 h-10 p-2 mb-8 mt-12 ml-32 h-14 mt-6 lg:w-56 lg:h-16">
                             <a class=" ml-3 self-center text-blue-button w-full"
                                 href="https://interface-design.co.uk/case-studies/ux-design-case-study">VIEW CASE
@@ -223,19 +238,23 @@
                     <img class="p-20 mr-20 w-4/5 h-4/5" src="/assets/images/ux-ui-design-workflow-app.avif" alt="">
                 </div>
 
-                <div class="flex flex-row">
-                    <img class="p-20 mr-20 w-4/5 h-4/5" src="/assets/images/visual-design-mobile-app.avif" alt="">
-                    <div class="flex flex-col">
-                        <h1 class="p-32 text-5xl w-4/5">Pushing the boundary on mobile</h1>
-                        <p class="p-4 ml-28 text-2xl w-3/5">OLX is the leader in the automotive vertical with 20 million
+                <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-row">
+                    <img data-aos="fade-left" data-aos-duration="1000" class="p-20 mr-20 w-4/5 h-4/5"
+                        src="/assets/images/visual-design-mobile-app.avif" alt="">
+                    <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col">
+                        <h1 data-aos="fade-left" data-aos-duration="1000" class="p-32 text-5xl w-4/5">Pushing the
+                            boundary on mobile</h1>
+                        <p data-aos="fade-left" data-aos-duration="1000" class="p-4 ml-28 text-2xl w-3/5">OLX is the
+                            leader in the automotive vertical with 20 million
                             users per month. They trusted our UX/UI agency to shape their design strategy and to lay the
                             foundation for the future.</p>
-                        <div
+                        <div data-aos="fade-left" data-aos-duration="1000"
                             class="flex flex-row border-2 border-blue-button w-3/5 h-10 p-2 mb-8 mt-12 ml-32 h-14 mt-6 lg:w-56 lg:h-16">
-                            <a class=" ml-3 self-center text-blue-button w-full"
+                            <a data-aos="fade-left" data-aos-duration="1000"
+                                class=" ml-3 self-center text-blue-button w-full"
                                 href="https://interface-design.co.uk/case-studies/ux-design-case-study">VIEW CASE
                                 STUDY</a>
-                            <img class="w-1/4 self-center"
+                            <img data-aos="fade-left" data-aos-duration="1000" class="w-1/4 self-center"
                                 src="https://interface-design.co.uk/images/right-arrow-blue.svg" alt="">
                         </div>
                     </div>
@@ -246,51 +265,60 @@
 
         <section>
             <!-- MOBILE VIEW -->
-            <div class="bg-midnight flex flex-col lg:hidden">
-                <h2 class="text-3xl p-6 mt-4 text-menuFont">GUI design for outboard engines</h2>
-                <img class="self-right p-6" src="/assets/images/gui-design-engine-mobile@3x.png" alt="">
-                <p class="text-xl text-menuFont p-6">The high performance engines power both civil and military vessels.
+            <div data-aos="fade-left" data-aos-duration="1000" class="bg-midnight flex flex-col lg:hidden">
+                <h2 data-aos="fade-left" data-aos-duration="1000" class="text-3xl p-6 mt-4 text-menuFont">GUI design for
+                    outboard engines</h2>
+                <img data-aos="fade-left" data-aos-duration="1000" class="self-right p-6"
+                    src="/assets/images/gui-design-engine-mobile@3x.png" alt="">
+                <p data-aos="fade-left" data-aos-duration="1000" class="text-xl text-menuFont p-6">The high performance
+                    engines power both civil and military vessels.
                     The user experience design is underpinned by a framework that matches the GUI to the display and
                     engine configurations.</p>
-                <div
+                <div data-aos="fade-left" data-aos-duration="1000"
                     class="flex flex-row border-2 border-goldFont w-3/5 h-10 p-2 mb-8 mt-8 ml-4 h-14 mt-6 lg:w-56 lg:h-16 lg:ml-40">
-                    <a class=" ml-3 self-center text-goldFont w-full"
+                    <a data-aos="fade-left" data-aos-duration="1000" class=" ml-3 self-center text-goldFont w-full"
                         href="https://interface-design.co.uk/case-studies/ux-design-case-study">VIEW CASE
                         STUDY</a>
-                    <img class="w-1/4 self-center" src="https://interface-design.co.uk/images/right-arrow-gold.svg"
-                        alt="">
+                    <img data-aos="fade-left" data-aos-duration="1000" class="w-1/4 self-center"
+                        src="https://interface-design.co.uk/images/right-arrow-gold.svg" alt="">
                 </div>
-                <img class="pt-4 self-center" src="/assets/images/ux-design-cluster-mobile@3x.png" alt="">
+                <img data-aos="fade-left" data-aos-duration="1000" class="pt-4 self-center"
+                    src="/assets/images/ux-design-cluster-mobile@3x.png" alt="">
             </div>
 
             <!-- DESKTOP VIEW -->
-            <div class="hidden lg:block">
-                <div class="flex flex-row bg-midnight">
-                    <div class="flex flex-col h-fit">
-                        <h2 class="text-5xl p-32 mt-4 text-menuFont w-3/5 ml-8">GUI design for outboard engines</h2>
-                        <p class="text-2xl text-menuFont p-20 w-3/5 ml-20">The high performance engines power both civil
+            <div data-aos="fade-left" data-aos-duration="1000" class="hidden lg:block">
+                <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-row bg-midnight">
+                    <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col h-fit">
+                        <h2 data-aos="fade-left" data-aos-duration="1000"
+                            class="text-5xl p-32 mt-4 text-menuFont w-3/5 ml-8">GUI design for outboard engines</h2>
+                        <p data-aos="fade-left" data-aos-duration="1000"
+                            class="text-2xl text-menuFont p-20 w-3/5 ml-20">The high performance engines power both
+                            civil
                             and
                             military
                             vessels.
                             The user experience design is underpinned by a framework that matches the GUI to the display
                             and
                             engine configurations.</p>
-                        <div
+                        <div data-aos="fade-left" data-aos-duration="1000"
                             class="flex flex-row border-2 border-goldFont w-3/5 h-10 p-2 mb-8 mt-8 ml-4 h-14 mt-6 lg:w-56 lg:h-16 lg:ml-40">
-                            <a class=" ml-3 self-center text-goldFont w-full"
+                            <a data-aos="fade-left" data-aos-duration="1000"
+                                class=" ml-3 self-center text-goldFont w-full"
                                 href="https://interface-design.co.uk/case-studies/ux-design-case-study">VIEW CASE
                                 STUDY</a>
-                            <img class="w-1/4 self-center"
+                            <img data-aos="fade-left" data-aos-duration="1000" class="w-1/4 self-center"
                                 src="https://interface-design.co.uk/images/right-arrow-gold.svg" alt="">
                         </div>
 
                     </div>
-                    <div class="flex flex-col h-128 ">
-                        <img class="self-center p-6 relative bottom-6" src="/assets/images/gui-design-engine.png"
-                            alt="">
-                        <img class="w-32 h-128 z-50 relative bottom-16" src="/assets/images/cox-outboard-engine.png"
-                            alt="">
-                        <img class="self-center relative bottom-44 w-96 h-96"
+                    <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col h-128 ">
+                        <img data-aos="fade-left" data-aos-duration="1000" class="self-center p-6 relative bottom-6"
+                            src="/assets/images/gui-design-engine.png" alt="">
+                        <img data-aos="fade-left" data-aos-duration="1000" class="w-32 h-128 z-50 relative bottom-16"
+                            src="/assets/images/cox-outboard-engine.png" alt="">
+                        <img data-aos="fade-left" data-aos-duration="1000"
+                            class="self-center relative bottom-44 w-96 h-96"
                             src="/assets/images/ux-design-cluster-mobile@3x.png" alt="">
                     </div>
                 </div>
@@ -299,20 +327,21 @@
 
         <section>
             <!-- MOBILE VIEW -->
-            <div class="flex flex-col lg:hidden">
-                <h2 class="text-3xl p-6 w-full mt-8 mb-4">
+            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col lg:hidden">
+                <h2 data-aos="fade-left" data-aos-duration="1000" class="text-3xl p-6 w-full mt-8 mb-4">
                     We're anchored in London but our design projects are as international as our customers.
                 </h2>
 
-                <nav class="flex flex-row justify-evenly p-4">
-                    <a id="selected" href="#">Selected</a>
-                    <a id="enterprise" href="#">Enterprise</a>
-                    <a id="startups" href="#">Startups</a>
-                    <a id="public" href="#">Public</a>
-                    <a class="text-blue-button" id="medical" href="#">Medical+</a>
+                <nav data-aos="fade-left" data-aos-duration="1000" class="flex flex-row justify-evenly p-4">
+                    <a data-aos="fade-left" data-aos-duration="1000" id="selected" href="#">Selected</a>
+                    <a data-aos="fade-left" data-aos-duration="1000" id="enterprise" href="#">Enterprise</a>
+                    <a data-aos="fade-left" data-aos-duration="1000" id="startups" href="#">Startups</a>
+                    <a data-aos="fade-left" data-aos-duration="1000" id="public" href="#">Public</a>
+                    <a data-aos="fade-left" data-aos-duration="1000" class="text-blue-button" id="medical"
+                        href="#">Medical+</a>
                 </nav>
 
-                <div id="selected-div">
+                <div data-aos="fade-left" data-aos-duration="1000" id="selected-div">
                     <div class="flex flex-col p-4">
                         <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                         <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
@@ -350,7 +379,7 @@
                     </div>
                 </div>
 
-                <div id="enterprise-div" class="hidden">
+                <div data-aos="fade-left" data-aos-duration="1000" id="enterprise-div" class="hidden">
                     <div class="flex flex-col p-4">
                         <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS ENTERPRISE</h1>
                         <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
@@ -388,7 +417,7 @@
                     </div>
                 </div>
 
-                <div id="startups-div" class="hidden">
+                <div data-aos="fade-left" data-aos-duration="1000" id="startups-div" class="hidden">
                     <div class="flex flex-col p-4">
                         <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS STARTUP</h1>
                         <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
@@ -426,7 +455,7 @@
                     </div>
                 </div>
 
-                <div id="public-div" class="hidden">
+                <div data-aos="fade-left" data-aos-duration="1000" id="public-div" class="hidden">
                     <div class="flex flex-col p-4">
                         <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS PUBLIC</h1>
                         <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
@@ -464,7 +493,7 @@
                     </div>
                 </div>
 
-                <div id="medical-div" class="hidden">
+                <div data-aos="fade-left" data-aos-duration="1000" id="medical-div" class="hidden">
                     <div class="flex flex-col p-4">
                         <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS MEDICAL</h1>
                         <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
@@ -505,13 +534,14 @@
             </div>
 
             <!-- WEB VIEW -->
-            <div class="hidden lg:block ">
-                <div class="flex flex-col">
-                    <h2 class="text-5xl p-14 w-3/5 mt-8 mb-4 ml-44">
+            <div data-aos="fade-left" data-aos-duration="1000" class="hidden lg:block ">
+                <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col">
+                    <h2 data-aos="fade-left" data-aos-duration="1000" class="text-5xl p-14 w-3/5 mt-8 mb-4 ml-44">
                         We're anchored in London but our design projects are as international as our customers.
                     </h2>
 
-                    <nav class="flex flex-row justify-evenly p-4 text-2xl font-bold">
+                    <nav data-aos="fade-left" data-aos-duration="1000"
+                        class="flex flex-row justify-evenly p-4 text-2xl font-bold">
                         <a id="selectedWeb" href="#">Selected</a>
                         <a id="enterpriseWeb" href="#">Enterprise</a>
                         <a id="startupsWeb" href="#">Startups</a>
@@ -519,10 +549,11 @@
                         <a class="text-blue-button" id="medicalWeb" href="#">Medical+</a>
                     </nav>
 
-                    <div class="self-center justify-self-center p-16">
-                        <div id="selected-div-web" class="grid grid-cols-3 grid-rows-3"
+                    <div data-aos="fade-left" data-aos-duration="1000" class="self-center justify-self-center p-16">
+                        <div data-aos="fade-left" data-aos-duration="1000" id="selected-div-web"
+                            class="grid grid-cols-3 grid-rows-3"
                             style="grid-template-columns: repeat(3,500px); grid-template-rows:repeat(5,200px);">
-                            <div class="flex flex-col p-4">
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                                 <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
                                 <p>Philips Europe engaged us in a programme of user research, UX design and UI design
@@ -531,7 +562,7 @@
                                     native
                                     OS software used by their engineers.</p>
                             </div>
-                            <div class="flex flex-col p-4">
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                                 <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
                                 <p>Philips Europe engaged us in a programme of user research, UX design and UI design
@@ -540,7 +571,7 @@
                                     native
                                     OS software used by their engineers.</p>
                             </div>
-                            <div class="flex flex-col p-4">
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                                 <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
                                 <p>Philips Europe engaged us in a programme of user research, UX design and UI design
@@ -549,7 +580,7 @@
                                     native
                                     OS software used by their engineers.</p>
                             </div>
-                            <div class="flex flex-col p-4">
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                                 <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
                                 <p>Philips Europe engaged us in a programme of user research, UX design and UI design
@@ -558,7 +589,7 @@
                                     native
                                     OS software used by their engineers.</p>
                             </div>
-                            <div class="flex flex-col p-4">
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                                 <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
                                 <p>Philips Europe engaged us in a programme of user research, UX design and UI design
@@ -567,7 +598,7 @@
                                     native
                                     OS software used by their engineers.</p>
                             </div>
-                            <div class="flex flex-col p-4">
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                                 <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
                                 <p>Philips Europe engaged us in a programme of user research, UX design and UI design
@@ -576,7 +607,7 @@
                                     native
                                     OS software used by their engineers.</p>
                             </div>
-                            <div class="flex flex-col p-4">
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                                 <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
                                 <p>Philips Europe engaged us in a programme of user research, UX design and UI design
@@ -585,7 +616,7 @@
                                     native
                                     OS software used by their engineers.</p>
                             </div>
-                            <div class="flex flex-col p-4">
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                                 <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
                                 <p>Philips Europe engaged us in a programme of user research, UX design and UI design
@@ -594,7 +625,7 @@
                                     native
                                     OS software used by their engineers.</p>
                             </div>
-                            <div class="flex flex-col p-4">
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                                 <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
                                 <p>Philips Europe engaged us in a programme of user research, UX design and UI design
@@ -603,7 +634,19 @@
                                     native
                                     OS software used by their engineers.</p>
                             </div>
-                            <div class="flex flex-col p-4">
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
+                                <h1 data-aos="fade-left" data-aos-duration="1000"
+                                    class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
+                                <h2 data-aos="fade-left" data-aos-duration="1000" class="font-bold text-xl mt-1 mb-1">
+                                    Philips</h2>
+                                <p data-aos="fade-left" data-aos-duration="1000">Philips Europe engaged us in a
+                                    programme of user research, UX design and UI design
+                                    for
+                                    the
+                                    native
+                                    OS software used by their engineers.</p>
+                            </div>
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                                 <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
                                 <p>Philips Europe engaged us in a programme of user research, UX design and UI design
@@ -612,7 +655,7 @@
                                     native
                                     OS software used by their engineers.</p>
                             </div>
-                            <div class="flex flex-col p-4">
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                                 <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
                                 <p>Philips Europe engaged us in a programme of user research, UX design and UI design
@@ -621,7 +664,7 @@
                                     native
                                     OS software used by their engineers.</p>
                             </div>
-                            <div class="flex flex-col p-4">
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                                 <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
                                 <p>Philips Europe engaged us in a programme of user research, UX design and UI design
@@ -630,7 +673,7 @@
                                     native
                                     OS software used by their engineers.</p>
                             </div>
-                            <div class="flex flex-col p-4">
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                                 <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
                                 <p>Philips Europe engaged us in a programme of user research, UX design and UI design
@@ -639,16 +682,7 @@
                                     native
                                     OS software used by their engineers.</p>
                             </div>
-                            <div class="flex flex-col p-4">
-                                <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
-                                <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
-                                <p>Philips Europe engaged us in a programme of user research, UX design and UI design
-                                    for
-                                    the
-                                    native
-                                    OS software used by their engineers.</p>
-                            </div>
-                            <div class="flex flex-col p-4">
+                            <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS</h1>
                                 <h2 class="font-bold text-xl mt-1 mb-1">Philips</h2>
                                 <p>Philips Europe engaged us in a programme of user research, UX design and UI design
@@ -660,7 +694,8 @@
 
                         </div>
 
-                        <div id="enterprise-div-web" class="hidden grid grid-cols-3 grid-rows-3"
+                        <div data-aos="fade-left" data-aos-duration="1000" id="enterprise-div-web"
+                            class="hidden grid grid-cols-3 grid-rows-3"
                             style="grid-template-columns: repeat(3,500px); grid-template-rows:repeat(5,200px);">
                             <div class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS ENTERPRISE</h1>
@@ -799,7 +834,8 @@
                             </div>
                         </div>
 
-                        <div id="startups-div-web" class="hidden grid grid-cols-3 grid-rows-3"
+                        <div data-aos="fade-left" data-aos-duration="1000" id="startups-div-web"
+                            class="hidden grid grid-cols-3 grid-rows-3"
                             style="grid-template-columns: repeat(3,500px); grid-template-rows:repeat(5,200px);">
                             <div class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS STARTUP</h1>
@@ -938,7 +974,8 @@
                             </div>
                         </div>
 
-                        <div id="public-div-web" class="hidden grid grid-cols-3 grid-rows-3"
+                        <div data-aos="fade-left" data-aos-duration="1000" id="public-div-web"
+                            class="hidden grid grid-cols-3 grid-rows-3"
                             style="grid-template-columns: repeat(3,500px); grid-template-rows:repeat(5,200px);">
                             <div class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS PUBLIC</h1>
@@ -1077,7 +1114,8 @@
                             </div>
                         </div>
 
-                        <div id="medical-div-web" class="hidden grid grid-cols-3 grid-rows-3"
+                        <div data-aos="fade-left" data-aos-duration="1000" id="medical-div-web"
+                            class="hidden grid grid-cols-3 grid-rows-3"
                             style="grid-template-columns: repeat(3,500px); grid-template-rows:repeat(5,200px);">
                             <div class="flex flex-col p-4">
                                 <h1 class="text-goldFont text-goldenFont mb-1">ELECTRONICS MEDICAL</h1>
@@ -1222,51 +1260,66 @@
 
         <footer>
             <!-- MOBILE VIEW -->
-            <div class="flex flex-col bg-footer-background text-menuFont bg-auto h-full bg-no-repeat lg:hidden">
-                <h1 class="text-3xl p-8 w-4/5">Your guide to digital excellence</h1>
-                <h2 class="p-8 ml-2 text-goldFont uppercase">Have a project in mind?</h2>
-                <ul class="p-8">
+            <div data-aos="fade-left" data-aos-duration="1000"
+                class="flex flex-col bg-footer-background text-menuFont bg-auto h-full bg-no-repeat lg:hidden">
+                <h1 data-aos="fade-left" data-aos-duration="1000" class="text-3xl p-8 w-4/5">Your guide to digital
+                    excellence</h1>
+                <h2 data-aos="fade-left" data-aos-duration="1000" class="p-8 ml-2 text-goldFont uppercase">Have a
+                    project in mind?</h2>
+                <ul data-aos="fade-left" data-aos-duration="1000" class="p-8">
                     <li class="p-2">Research user needs</li>
                     <li class="p-2">Prototype an idea</li>
                     <li class="p-2">Design a new product</li>
                     <li class="p-2">Improve a digital product</li>
                 </ul>
-                <h3 class="text-goldFont text-xl p-8">CONTACT US</h3>
-                <h4 class="text-menuFont text-3xl p-8">hi@creativenavy.com</h4>
-                <ul class="p-8">
+                <h3 data-aos="fade-left" data-aos-duration="1000" class="text-goldFont text-xl p-8">CONTACT US</h3>
+                <h4 data-aos="fade-left" data-aos-duration="1000" class="text-menuFont text-3xl p-8">hi@creativenavy.com
+                </h4>
+                <ul data-aos="fade-left" data-aos-duration="1000" class="p-8">
                     <li class="p-2">Medium</li>
                     <li class="p-2">Instagram</li>
                     <li class="p-2">Privacy and Terms</li>
                 </ul>
-                <img class="w-32 h-32 ml-10" src="/assets/images/logo.svg" alt="">
-                <p class="text-m text-grayFont p-8"> Creative Navy is a top UX/UI Design Agency in London. We design
+                <img data-aos="fade-left" data-aos-duration="1000" class="w-32 h-32 ml-10" src="/assets/images/logo.svg"
+                    alt="">
+                <p data-aos="fade-left" data-aos-duration="1000" class="text-m text-grayFont p-8"> Creative Navy is a
+                    top UX/UI Design Agency in London. We design
                     mobile experiences, web interfaces
                     and GUI for embedded devices.</p>
-                <span class="text-grayFont p-8">© Creative Navy LTD 2024</span>
+                <span data-aos="fade-left" data-aos-duration="1000" class="text-grayFont p-8">© Creative Navy LTD
+                    2024</span>
             </div>
 
             <!-- WEB VIEW -->
-            <div class="hidden lg:block">
-                <div class="flex flex-col text-menuFont bg-midnight h-full bg-no-repeat">
-                    <div class="flex flex-row justify-evenly">
-                        <h1 class="text-6xl p-32 w-2/5 ml-36 mt-16 ml-2">Your guide to digital excellence</h1>
-                        <img class="h-156 w-156 mr-44" src="assets/images/excellence-ui-design-illustration.png" alt="">
+            <div data-aos="fade-left" data-aos-duration="1000" class="hidden lg:block">
+                <div data-aos="fade-left" data-aos-duration="1000"
+                    class="flex flex-col text-menuFont bg-midnight h-full bg-no-repeat">
+                    <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-row justify-evenly">
+                        <h1 data-aos="fade-left" data-aos-duration="1000" class="text-6xl p-32 w-2/5 ml-36 mt-16 ml-2">
+                            Your guide to digital excellence</h1>
+                        <img data-aos="fade-left" data-aos-duration="1000" class="h-156 w-156 mr-44"
+                            src="assets/images/excellence-ui-design-illustration.png" alt="">
+
                     </div>
-                    <div class="flex flex-row justify-evenly">
-                        <div class="flex flex-col w-1/5">
-                            <img class="w-32 h-32 ml-10" src="/assets/images/logo.svg" alt="">
-                            <p class="text-m text-grayFont p-8 "> Creative Navy is a top UX/UI Design Agency in
+                    <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-row justify-evenly">
+                        <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col w-1/5">
+                            <img data-aos="fade-left" data-aos-duration="1000" class="w-32 h-32 ml-10"
+                                src="/assets/images/logo.svg" alt="">
+                            <p data-aos="fade-left" data-aos-duration="1000" class="text-m text-grayFont p-8 "> Creative
+                                Navy is a top UX/UI Design Agency in
                                 London.
                                 We
                                 design
                                 mobile experiences, web interfaces
                                 and GUI for embedded devices.</p>
-                            <span class="text-grayFont p-8">© Creative Navy LTD 2024</span>
+                            <span data-aos="fade-left" data-aos-duration="1000" class="text-grayFont p-8">© Creative
+                                Navy LTD 2024</span>
                         </div>
 
-                        <div class="flex flex-col">
-                            <h2 class="p-8 ml-2 text-goldFont uppercase">Have a project in mind?</h2>
-                            <ul class="p-8">
+                        <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col">
+                            <h2 data-aos="fade-left" data-aos-duration="1000" class="p-8 ml-2 text-goldFont uppercase">
+                                Have a project in mind?</h2>
+                            <ul data-aos="fade-left" data-aos-duration="1000" class="p-8">
                                 <li class="p-2">Research user needs</li>
                                 <li class="p-2">Prototype an idea</li>
                                 <li class="p-2">Design a new product</li>
@@ -1274,7 +1327,7 @@
                             </ul>
                         </div>
 
-                        <div class="flex flex-col">
+                        <div data-aos="fade-left" data-aos-duration="1000" class="flex flex-col">
                             <h3 class="text-goldFont text-xl p-8">CONTACT US</h3>
                             <h4 class="text-menuFont text-3xl p-4">hi@creativenavy.com</h4>
                             <ul class="p-8">
